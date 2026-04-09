@@ -4,7 +4,7 @@ local button = script.Parent
 local cooldownBar = button:WaitForChild("CooldownBar")
 
 local DROP_FORCE = -120
-local COOLDOWN = 3 -- secondes
+local COOLDOWN = 0.2 -- secondes
 
 local ready = true
 
